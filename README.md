@@ -5,7 +5,6 @@ Bu, asıl BST Portal projesi tamamlanana kadar kullanılacak geçici bir "Yakın
 ## Özellikler
 
 - Şık ve modern tasarım
-- Geri sayım sayacı
 - Responsive tasarım (mobil cihazlara uyumlu)
 - Sosyal medya bağlantıları
 - İletişim bilgileri
@@ -45,7 +44,6 @@ python manage.py runserver
 ## Özelleştirme
 
 - Renkleri ve stilleri değiştirmek için `coming_soon/static/coming_soon/css/style.css` dosyasını düzenleyin
-- Geri sayım süresini değiştirmek için `coming_soon/static/coming_soon/js/countdown.js` dosyasını düzenleyin
 - İletişim bilgilerini ve diğer içeriği değiştirmek için `coming_soon/templates/coming_soon/index.html` dosyasını düzenleyin
 
 ## Lisans
